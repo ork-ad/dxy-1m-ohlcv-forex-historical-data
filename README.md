@@ -150,4 +150,4 @@ The complete **DXY** archive on **[ork.ad](https://ork.ad/)** includes **13 OHLC
 **[→ Get the full DXY dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · DXY 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-01 UTC*
+*GetData · DXY 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
