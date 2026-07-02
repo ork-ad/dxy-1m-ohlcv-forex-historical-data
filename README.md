@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `DXY_1m.csv` (172,228 rows, `2025-12-02` → `2026-06-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,713,327** `1m` rows (~222.34 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2012-10-07` → `2026-06-02`.
+> **Sample on GitHub** · `DXY_1m.csv` (172,228 rows, `2025-12-02` → `2026-06-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,713,327** `1m` rows (~240.32 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2012-10-07` → `2026-06-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/dxy-1m-ohlcv-forex-histor
 | Instrument | US Dollar Index · Forex | US Dollar Index · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 172,228 | **4,713,327** |
-| Size | 8.01 MB | ~222.34 MB |
+| Size | 8.01 MB | ~240.32 MB |
 | Period | `2025-12-02` → `2026-06-02` | `2012-10-07` → `2026-06-02` |
 | File | `DXY_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
