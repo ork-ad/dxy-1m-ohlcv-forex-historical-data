@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/dxy-1m-ohlcv-forex-histor
 | Instrument | US Dollar Index · Forex | US Dollar Index · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 172,228 | **4,713,327** |
-| Size | 8.01 MB | ~240.32 MB |
+| Size | 8.67 MB | ~240.32 MB |
 | Period | `2025-12-02` → `2026-06-02` | `2012-10-07` → `2026-06-02` |
 | File | `DXY_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`DXY_1m.csv`**:
 
 | time | open | high | low | close |
 | --- | --- | --- | --- | --- |
-| 2025-12-02T10:09:00Z | 99.487 | 99.493 | 99.485 | 99.487 |
-| 2025-12-02T10:10:00Z | 99.486 | 99.488 | 99.485 | 99.487 |
-| 2025-12-02T10:11:00Z | 99.489 | 99.504 | 99.489 | 99.502 |
-| 2025-12-02T10:12:00Z | 99.504 | 99.51 | 99.497 | 99.508 |
-| 2025-12-02T10:13:00Z | 99.506 | 99.513 | 99.494 | 99.497 |
+| 2025-12-02T10:09:00Z | 99.4890 | 99.4950 | 99.4870 | 99.4890 |
+| 2025-12-02T10:10:00Z | 99.4880 | 99.4900 | 99.4870 | 99.4890 |
+| 2025-12-02T10:11:00Z | 99.4910 | 99.5060 | 99.4910 | 99.5040 |
+| 2025-12-02T10:12:00Z | 99.5060 | 99.511 | 99.4990 | 99.5100 |
+| 2025-12-02T10:13:00Z | 99.5080 | 99.5150 | 99.4960 | 99.4990 |
 
 **Last rows**
 
 | time | open | high | low | close |
 | --- | --- | --- | --- | --- |
 | time | open | high | low | close |
-| 2026-06-02T10:05:00Z | 99.141 | 99.141 | 99.115 | 99.115 |
-| 2026-06-02T10:06:00Z | 99.113 | 99.122 | 99.112 | 99.122 |
-| 2026-06-02T10:07:00Z | 99.121 | 99.127 | 99.12 | 99.122 |
-| 2026-06-02T10:08:00Z | 99.124 | 99.124 | 99.118 | 99.123 |
+| 2026-06-02T10:05:00Z | 99.1430 | 99.1430 | 99.1170 | 99.1170 |
+| 2026-06-02T10:06:00Z | 99.1150 | 99.1240 | 99.1140 | 99.1240 |
+| 2026-06-02T10:07:00Z | 99.1230 | 99.1290 | 99.121 | 99.1240 |
+| 2026-06-02T10:08:00Z | 99.1260 | 99.1260 | 99.1200 | 99.1250 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **DXY** archive on **[ork.ad](https://ork.ad/)** includes **13 OHLC
 **[→ Get the full DXY dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · DXY 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · DXY 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
